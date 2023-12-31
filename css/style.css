@@ -276,6 +276,10 @@
     .carousel-item p {
         font-size: 16px !important;
     }
+    
+    .logo{
+        height: 10vh;
+    }
 }
 
 @media (max-width: 768px) {
@@ -294,6 +298,10 @@
 
     .carousel-item p {
         font-size: 14px !important;
+    }
+
+    .logo {
+        height: 5vh;
     }
 }
 
